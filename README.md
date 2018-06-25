@@ -1,0 +1,2 @@
+# -The-monthly-credit-card-expenses-of-an-individual-in-1000-rupees-is-given-in-the-file
+The monthly credit card expenses of an individual in 1000 rupees is given in the file Credit_Card_Expenses.csv.  Read  the dataset to Python Compute mean, median minimum, maximum, range, variance, standard deviation, skewness, kurtosis and quantiles of Credit Card Expenses Compute default summary of Credit Card Expenses Draw Histogram of Credit Card Expenses
